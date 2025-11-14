@@ -49,9 +49,8 @@ Explorations, utilities, and “for fun” programming work, such as:
 ## Game Development
 
 Projects involving physics engines, multiplayer systems, and gameplay prototyping, including:
-- A custom **3D physics-based multiplayer game** built using Unreal Engine
 - Gameplay mechanics coded in C++ and Blueprints
-- Gameplay mechanics and networking coded in .Net, C# and Unity
+- Additional prototyping and networking experiments built in Unity using C# and .NET
 
 ---
 
