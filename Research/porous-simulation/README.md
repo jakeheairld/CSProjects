@@ -4,6 +4,11 @@ Tools for generating porous microstructures, constructing RVEs, generating meshe
 
 Developed as part of my work as an Undergraduate Research Assistant in the Integrated Multi-Physics Laboratory at the University of Utah.
 
+![](p1.png)
+![](p2.png)
+![](p4.png)
+![](p3.png)
+
 ---
 
 ## Overview
