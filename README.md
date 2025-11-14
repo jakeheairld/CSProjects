@@ -5,9 +5,9 @@ This repository brings together selected projects that highlight my experience i
 
 ---
 
-## 🔬 Research Projects (Integrated Multi-Physics Laboratory)
+## Research Projects
 
-### **Porous Material Simulation & Mesh Generation Toolkit**
+### **Porous Material Simulation & Mesh Generation Toolkit (Integrated Multi-Physics Laboratory)**
 A suite of Python tools developed during my work as an Undergraduate Research Assistant in the **Integrated Multi-Physics Laboratory** at the University of Utah.  
 These scripts support ongoing computational research on porous materials and fracture mechanics.
 
@@ -24,19 +24,19 @@ These tools remain in active use in the lab for generating datasets, performing 
 
 ---
 
-## 🎓 Coursework Projects
+## Coursework Projects
 
 Selected projects from core Computer Science courses at the University of Utah, including:
-- **CS3500 – Software Practice** (Spreadsheet system, dependency graphs, formula evaluation engine)
-- **CS3520 – Programming Languages** (Interpreters, type systems, lazy evaluation, control operators)
-- **CS4400 – Computer Systems** (Malloc lab, tiny shell, caching/TLB exercises)
-- **CS3190 – Data Analysis** (Gradient descent, linear regression, polynomial models)
+- **Software Practice** (Spreadsheet system, dependency graphs, formula evaluation engine)
+- **Programming Languages** (Interpreters, type systems, lazy evaluation, control operators)
+- **Computer Systems** (Malloc lab, tiny shell, caching/TLB exercises)
+- **Data Analysis** (Gradient descent, linear regression, polynomial models)
 
 Each folder includes representative code that demonstrates algorithm design, debugging, testing, and system-level programming.
 
 ---
 
-## 🧪 Personal Projects
+## Personal Projects
 
 Explorations, utilities, and “for fun” programming work, such as:
 - Python utilities and experiments
@@ -46,16 +46,16 @@ Explorations, utilities, and “for fun” programming work, such as:
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 Projects involving physics engines, multiplayer systems, and gameplay prototyping, including:
 - A custom **3D physics-based multiplayer game** built using Unreal Engine
 - Gameplay mechanics coded in C++ and Blueprints
-- Experiments with movement physics, collision systems, and simulation loops
+- Gameplay mechanics and networking coded in .Net, C# and Unity
 
 ---
 
-## 📌 Purpose of This Repository
+## Purpose of This Repository
 
 This repository serves as:
 - A clean, organized showcase of my development experience  
