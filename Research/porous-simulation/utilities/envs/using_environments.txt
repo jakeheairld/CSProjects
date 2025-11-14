@@ -1,0 +1,10 @@
+CONDA MUST BE INSTALLED ON MACHINE
+Python Version 3.9.20
+To recreate environment on machine run commands:
+
+Windows: conda env create -f envs/meshenv_windows.yml
+Mac: conda env create -f envs/meshenv_mac.yml
+
+conda activate MeshProject-env
+
+After running these commands, set project interpreter to new environment.

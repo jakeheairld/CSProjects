@@ -1,0 +1,7 @@
+numpy
+shapely
+meshio
+gmsh
+h5py
+matplotlib
+scipy
